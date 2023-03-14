@@ -6,7 +6,7 @@ body{
     margin: 0;
     font-family: 'Hontserrat', sans-serif;
     width: 100vw;
-    background-color: aliceblue;
+    font-color: aliceblue;
 }
 h1{
     font-size: 4rem;
