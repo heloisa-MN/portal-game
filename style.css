@@ -1,1 +1,24 @@
+body{
+    margin: 0;
+    font-family: 'Hontserrat', sans-serif;
+    width: 100vw;
+}
+h1{
+    font-size: 4rem;
+}
+ul{
+    list-style: nome;
+    display: flex;
+}
+li{
+    margin: 0 15px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: auto 30px;
+}
 
+nav p{
+     font-weight: bolder;
+}
