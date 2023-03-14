@@ -2,6 +2,7 @@
     background-color: rgb(54, 51, 51);
     display: flex;
     justify-content: space-around ;
+    font-size: 16;
 }
 body{
     background-color: rgb(25, 24, 24); 
