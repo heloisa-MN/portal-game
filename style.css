@@ -3,11 +3,11 @@
 }
 
 body{
-    background-color: rgb(48, 53, 58);
+    background-color: rgb(34, 35, 36);
     margin: 0;
     font-family: 'Tilt Warp', cursive;
     width: 100vw;
-   color: aliceblue;
+   color: rgb(153, 178, 201);
 }
 h1{
     font-size: 4rem;
