@@ -1,3 +1,27 @@
+
 body{
     background-color: rgb(34, 35, 36);
+    margin: 0;
+    font-family: 'Tilt Warp', cursive;
+    width: 100vw;
+   color: rgb(153, 178, 201);
+}
+h1{
+    font-size: 4rem;
+}
+ul{
+    list-style: nome;
+    display: flex;
+}
+li{
+    margin: 0 15px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: auto 30px;
+}
+
+nav p{
+     font-weight: bold;
 }
