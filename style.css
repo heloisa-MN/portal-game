@@ -32,9 +32,4 @@ header{
     height: calc(100vh - 150px);
     background: no-repeat center/cover url('assets/header-imagem.png') ;
 }
-.letra{
-    background-image: 
-    linear-gradient(90deg, red, blue);
-    background-clip: text;
-    color: transparent;
-}
+
